@@ -26,7 +26,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/hospital-management-system.git
+git clone https://github.com/vina-1234/hospital-management-system.git
 
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans).
 
